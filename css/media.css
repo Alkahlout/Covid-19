@@ -1,0 +1,5 @@
+@media only screen and (max-width:600px){
+    .about-image,.banner-image{
+        display: none;
+    }
+}
