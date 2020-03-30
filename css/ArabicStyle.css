@@ -178,7 +178,8 @@ html, body{
 /* end third section */
 
 /* start fourth section */
-.site-main > .spread-area .procedure{
+
+.site-main > .spread-area .procedure {
     background: rgba(248, 252, 253, 0.973);
     margin: 13% 0%;
     transition: box-shadow .7s ease;
