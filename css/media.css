@@ -1,0 +1,19 @@
+@media only screen and (max-width:600px){
+    .navbar-brand{
+        height: 44px;
+        width: 120px;
+    }
+
+    .site-main .site-banner .banner-image> img {
+        margin-top: 20px;
+    }
+
+    .services-title .para {
+        TEXT-ALIGN: JUSTIFY;
+    }
+
+    .site-main .site-banner .site-title h1{
+        font-size: 1.5rem;
+    }
+    /* end english version */
+}
